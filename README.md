@@ -24,7 +24,8 @@ If you're an ASU student with interests in embedded systems, firmware, real-time
 programming, python programming, or literally anything else you see on the organization's page: reach out to me and join us!
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=c,java,py,cpp,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,html,css)](https://skillicons.dev)
 
 ### Skills
 [![Tools](https://skillicons.dev/icons?i=arduino,git,github,githubactions)](https://skillicons.dev)
