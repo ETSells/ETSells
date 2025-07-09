@@ -12,6 +12,8 @@
  ▀▀▀▀▀▀▀▀▀▀▀       ▀       ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀ 
 ```
 <!-- Generated with a tool from patorjk: https://patorjk.com/software/taag/#p=display&f=Electronic&t=ETSells -->
+[![FCF Stability Check](https://github.com/SunDevilRocketry/Flight-Computer-Firmware/actions/workflows/build-stability.yml/badge.svg)](https://github.com/SunDevilRocketry/Flight-Computer-Firmware/actions/workflows/build-stability.yml)
+
 
 ### About Me
 
