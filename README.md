@@ -12,7 +12,11 @@
  ▀▀▀▀▀▀▀▀▀▀▀       ▀       ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀ 
 ```
 <!-- Generated with a tool from patorjk: https://patorjk.com/software/taag/#p=display&f=Electronic&t=ETSells -->
+##### CI Badges for the projects I lead:
 [![FCF Stability Check](https://github.com/SunDevilRocketry/Flight-Computer-Firmware/actions/workflows/build-stability.yml/badge.svg)](https://github.com/SunDevilRocketry/Flight-Computer-Firmware/actions/workflows/build-stability.yml)
+[![APPA Unit Test Status](https://github.com/SunDevilRocketry/Flight-Computer-Firmware/actions/workflows/appa-runner.yml/badge.svg)](https://github.com/SunDevilRocketry/Flight-Computer-Firmware/actions/workflows/appa-runner.yml)
+[![Canard Unit Test Status](https://github.com/SunDevilRocketry/Flight-Computer-Firmware/actions/workflows/canard-runner.yml/badge.svg)](https://github.com/SunDevilRocketry/Flight-Computer-Firmware/actions/workflows/canard-runner.yml)
+[![Mod Unit Test Status](https://github.com/SunDevilRocketry/mod/actions/workflows/mod-runner.yml/badge.svg)](https://github.com/SunDevilRocketry/mod/actions/workflows/mod-runner.yml)
 
 
 ### About Me
