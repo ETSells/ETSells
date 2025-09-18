@@ -33,7 +33,7 @@ software/firmware for SDR's purpose-built computers, such as the flight computer
 exposure to project management to get to work with such a dedicated team and play a central role in guiding our goals. On the 
 technical side, I specialize in the application architecture, flight logic, and flash memory, but I've been all around our 
 codebase and I'm always trying to learn more. If you're an ASU student with interests in embedded systems, firmware, real-time 
-operating systems, software architecture, C programming, python programming, or literally anything else you see on the 
+operating systems, software architecture, C programming, Python programming, or literally anything else you see on the 
 organization's page: reach out to me and join us!
 
 ### Languages
