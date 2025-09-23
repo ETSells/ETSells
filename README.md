@@ -39,7 +39,7 @@ organization's page: reach out to me and join us!
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=c,java,py)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,cpp,html,css)](https://skillicons.dev)
 
 ### Skills
 [![Tools](https://skillicons.dev/icons?i=arduino,git,github,githubactions)](https://skillicons.dev)
@@ -49,7 +49,9 @@ organization's page: reach out to me and join us!
 [![IDEs](https://skillicons.dev/icons?i=visualstudio,vscode,idea,eclipse)](https://skillicons.dev)
 
 ### Learning
-[![Learning](https://skillicons.dev/icons?i=mysql,js,nodejs,npm)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=mysql,js,flask)](https://skillicons.dev)
+
+[![Learning](https://skillicons.dev/icons?i=matlab,nodejs,npm)](https://skillicons.dev)
 
 ### More
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/eli-sells/)
