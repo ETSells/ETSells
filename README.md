@@ -22,8 +22,8 @@
 
 #### SDR Liquids Program (Maintenance):
 
-[![Liquid Engine Stability Check](https://github.com/SunDevilRocketry/Engine-Controller-Firmware/actions/workflows/build-stability.yml/badge.svg)](https://github.com/SunDevilRocketry/Flight-Computer-Firmware/actions/workflows/build-stability.yml)
-[![Liquid Valve Stability Check](https://github.com/SunDevilRocketry/Valve-Controller-Firmware/actions/workflows/build-stability.yml/badge.svg)](https://github.com/SunDevilRocketry/Flight-Computer-Firmware/actions/workflows/build-stability.yml)
+[![Liquid Engine Stability Check](https://github.com/SunDevilRocketry/Engine-Controller-Firmware/actions/workflows/build-stability.yml/badge.svg)](https://github.com/SunDevilRocketry/Engine-Controller-Firmware/actions/workflows/build-stability.yml)
+[![Liquid Valve Stability Check](https://github.com/SunDevilRocketry/Valve-Controller-Firmware/actions/workflows/build-stability.yml/badge.svg)](https://github.com/SunDevilRocketry/Valve-Controller-Firmware/actions/workflows/build-stability.yml)
 
 #### SDR Common Libraries:
 
