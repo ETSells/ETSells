@@ -30,7 +30,7 @@
 [![Mod Unit Test Status](https://github.com/SunDevilRocketry/mod/actions/workflows/mod-runner.yml/badge.svg)](https://github.com/SunDevilRocketry/mod/actions/workflows/mod-runner.yml)
 
 
-### About Me
+## About Me
 
 I'm an ASU student studying Computer Science (Software Engineering) and Math at Arizona State University. I specialize in 
 software engineering for safety-critical embedded systems in the aerospace industry, but I'm always looking to broaden my
@@ -46,6 +46,8 @@ technical side, I specialize in the application architecture, flight logic, and 
 codebase and I'm always trying to learn more. If you're an ASU student with interests in embedded systems, firmware, real-time 
 operating systems, software architecture, C programming, Python programming, or literally anything else you see on the 
 organization's page: reach out to me and join us!
+
+## Skills & Interests
 
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=c,java,py)](https://skillicons.dev)
