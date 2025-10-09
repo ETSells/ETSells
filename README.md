@@ -47,6 +47,8 @@ codebase and I'm always trying to learn more. If you're an ASU student with inte
 operating systems, software architecture, C programming, Python programming, or literally anything else you see on the 
 organization's page: reach out to me and join us!
 
+Contact: contact@etsells.dev
+
 ## Skills & Interests
 
 ### Languages
