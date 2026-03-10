@@ -12,7 +12,7 @@
 
 ### CI Badges for the projects I lead:
 
-#### SDR Flight Computer (Active Development):
+#### SDR Flight Computer R2 (Active Development):
 
 [![FCF Stability Check](https://github.com/SunDevilRocketry/Flight-Computer-Firmware/actions/workflows/build-stability.yml/badge.svg)](https://github.com/SunDevilRocketry/Flight-Computer-Firmware/actions/workflows/build-stability.yml)
 [![APPA Unit Test Status](https://github.com/SunDevilRocketry/Flight-Computer-Firmware/actions/workflows/appa-runner.yml/badge.svg)](https://github.com/SunDevilRocketry/Flight-Computer-Firmware/actions/workflows/appa-runner.yml)
