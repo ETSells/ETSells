@@ -9,6 +9,7 @@
 ```                                                                                                                                       
 
 <!-- Generated with a tool from patorjk: https://patorjk.com/software/taag/#p=display&f=Electronic&t=ETSells -->
+
 ### CI Badges for the projects I lead:
 
 #### SDR Flight Computer (Active Development):
@@ -71,3 +72,11 @@ Contact: contact@etsells.dev
 
 ### More
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/eli-sells/)
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=etsells&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&theme=road_trip&theme=road_trip&color=%23ffffffFF&hide=stars%2Crank">
+  <img 
+    src="https://pixel-profile.vercel.app/api/github-stats?username=etsells&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&theme=road_trip&color=%23ffffffFF&hide=stars%2Crank" 
+    alt="GitHub Stats"
+  >
+</picture>
