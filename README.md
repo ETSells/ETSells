@@ -24,7 +24,7 @@
 
 #### SDR Common Libraries:
 
-[![Mod Unit Test Status](https://github.com/SunDevilRocketry/mod/actions/workflows/mod-runner.yml/badge.svg)](https://github.com/SunDevilRocketry/mod/actions/workflows/mod-runner.yml)
+[![Driver Unit Test Status](https://github.com/SunDevilRocketry/Flight-Computer-Firmware/actions/workflows/driver-tests.yml/badge.svg)](https://github.com/SunDevilRocketry/Flight-Computer-Firmware/actions/workflows/driver-tests.yml)
 
 
 ## About Me
