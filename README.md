@@ -16,6 +16,7 @@
 
 [![FCF Stability Check](https://github.com/SunDevilRocketry/Flight-Computer-Firmware/actions/workflows/build-stability.yml/badge.svg)](https://github.com/SunDevilRocketry/Flight-Computer-Firmware/actions/workflows/build-stability.yml)
 [![APPA Unit Test Status](https://github.com/SunDevilRocketry/Flight-Computer-Firmware/actions/workflows/appa-runner.yml/badge.svg)](https://github.com/SunDevilRocketry/Flight-Computer-Firmware/actions/workflows/appa-runner.yml)
+[![Code Scanning](https://github.com/SunDevilRocketry/Flight-Computer-Firmware/actions/workflows/codeql.yml/badge.svg)](https://github.com/SunDevilRocketry/Flight-Computer-Firmware/actions/workflows/codeql.yml)
 
 #### SDR Liquids Program (Maintenance):
 
@@ -24,7 +25,7 @@
 
 #### SDR Common Libraries:
 
-[![Driver Unit Test Status](https://github.com/SunDevilRocketry/Flight-Computer-Firmware/actions/workflows/driver-tests.yml/badge.svg)](https://github.com/SunDevilRocketry/Flight-Computer-Firmware/actions/workflows/driver-tests.yml)
+[![Driver Unit Test Status](https://github.com/SunDevilRocketry/driver/actions/workflows/test-runner.yml/badge.svg)](https://github.com/SunDevilRocketry/driver/actions/workflows/test-runner.yml)
 
 
 ## About Me
