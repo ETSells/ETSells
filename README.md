@@ -34,8 +34,8 @@ I'm an ASU student studying Computer Science (Software Engineering) and Math at 
 software engineering for safety-critical embedded systems in the aerospace industry, but I'm always looking to broaden my
 skillset and learn cool things outside my main area of emphasis.
 
-I spent last summer as an intern at Garmin, where I had the privilege of working on the enroute performance component of the
-FMS on their integrated flight decks. I'm excited to be heading back next summer!
+I'm an intern at Garmin, where I have the privilege of working on their integrated flight decks. This is my second summer
+there, and I've really enjoyed my time with them!
 
 I'm currently the avionics lead at Sun Devil Rocketry. The avionics team builds and programs custom computers for both the high 
 power rocketry and liquid propulsion research projects undertaken by the rest of the team. I oversee seven teams working on
@@ -50,7 +50,7 @@ codebase and I'm always trying to learn more. If you're an ASU student with inte
 operating systems, software architecture, C programming, Python programming, or literally anything else you see on the 
 organization's page: reach out to me and join us!
 
-Contact: contact@etsells.dev
+Personal/Professional Contact: contact@etsells.dev
 
 ## Skills & Interests
 
