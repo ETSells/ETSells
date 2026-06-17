@@ -15,7 +15,7 @@
 #### SDR Flight Computer R2 (Active Development) // R3 (Early Development):
 
 [![FCF Stability Check](https://github.com/SunDevilRocketry/Flight-Computer-Firmware/actions/workflows/build-stability.yml/badge.svg)](https://github.com/SunDevilRocketry/Flight-Computer-Firmware/actions/workflows/build-stability.yml)
-[![APPA Unit Test Status](https://github.com/SunDevilRocketry/Flight-Computer-Firmware/actions/workflows/appa-runner.yml/badge.svg)](https://github.com/SunDevilRocketry/Flight-Computer-Firmware/actions/workflows/appa-runner.yml)
+[![SDR Test Runner](https://github.com/SunDevilRocketry/Flight-Computer-Firmware/actions/workflows/test-runner.yml/badge.svg)](https://github.com/SunDevilRocketry/Flight-Computer-Firmware/actions/workflows/test-runner.yml)
 [![Code Scanning](https://github.com/SunDevilRocketry/Flight-Computer-Firmware/actions/workflows/codeql.yml/badge.svg)](https://github.com/SunDevilRocketry/Flight-Computer-Firmware/actions/workflows/codeql.yml)
 
 #### SDR Liquids Program (Maintenance):
