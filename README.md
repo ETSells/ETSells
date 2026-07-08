@@ -10,6 +10,8 @@
 
 <!-- Generated with a tool from patorjk: https://patorjk.com/software/taag/#p=display&f=Electronic&t=ETSells -->
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=etsells&rank_icon=default&hide_rank=true&custom_title=etsells's%20activity&show_icons=true&include_all_commits=true&theme=radical&hide=stars)](https://github-stats-extended.vercel.app/api?username=etsekks&rank_icon=default&hide_rank=true&custom_title=etsells's%20activity&show_icons=true&include_all_commits=true&theme=radical&hide=stars)
+
 ### CI Badges for the projects I lead:
 
 #### SDR Flight Computer R2 (Active Development) // R3 (Early Development):
@@ -73,5 +75,3 @@ Personal/Professional Contact: contact@etsells.dev
 
 ### More
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/eli-sells/)
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=etsells&rank_icon=default&hide_rank=true&custom_title=etsells's%20activity&show_icons=true&include_all_commits=true&theme=radical&hide=stars)](https://github-stats-extended.vercel.app/api?username=etsekks&rank_icon=default&hide_rank=true&custom_title=etsells's%20activity&show_icons=true&include_all_commits=true&theme=radical&hide=stars)
