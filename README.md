@@ -38,14 +38,14 @@ I'm an intern at Garmin, where I have the privilege of working on their integrat
 there, and I've really enjoyed my time with them!
 
 I'm currently the avionics lead at Sun Devil Rocketry. The avionics team builds and programs custom computers for both the high 
-power rocketry and liquid propulsion research projects undertaken by the rest of the team. I oversee seven teams working on
-everything from PCB design to Javascript programming. I'm responsible for inter-team coordination and the primary point of 
-contact for any project in the organization who wants anything done with electronics.
+power rocketry and liquid propulsion research projects undertaken by the rest of the team. I oversee three divisions each with a number of 
+project teams working on everything from PCB design to Javascript programming. I'm responsible for inter-team coordination and the 
+primary point of contact for any project in the organization who wants anything done with electronics.
 
 I'm also directly leading the firmware team. We're responsible for writing all of the embedded
 software/firmware for SDR's purpose-built computers, such as the flight computer and liquid engine controller. It's been a great
 exposure to project management to get to work with such a dedicated team and play a central role in guiding our goals. On the 
-technical side, I specialize in the application architecture, flight logic, and flash memory, but I've been all around our 
+technical side, I specialize in the telemetry subsystem and the device's integration with the rest of our software, but I've been all around our 
 codebase and I'm always trying to learn more. If you're an ASU student with interests in embedded systems, firmware, real-time 
 operating systems, software architecture, C programming, Python programming, or literally anything else you see on the 
 organization's page: reach out to me and join us!
@@ -55,7 +55,7 @@ Personal/Professional Contact: contact@etsells.dev
 ## Skills & Interests
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=c,java,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,py,java)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=bash,cpp,html,css)](https://skillicons.dev)
 
@@ -74,10 +74,4 @@ Personal/Professional Contact: contact@etsells.dev
 ### More
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/eli-sells/)
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=etsells&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&theme=road_trip&theme=road_trip&color=%23ffffffFF&hide=stars%2Crank">
-  <img 
-    src="https://pixel-profile.vercel.app/api/github-stats?username=etsells&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&theme=road_trip&color=%23ffffffFF&hide=stars%2Crank" 
-    alt="GitHub Stats"
-  >
-</picture>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=etsells&rank_icon=default&hide_rank=true&custom_title=etsells's%20activity&show_icons=true&include_all_commits=true&theme=radical&hide=stars)](https://github-stats-extended.vercel.app/api?username=etsekks&rank_icon=default&hide_rank=true&custom_title=etsells's%20activity&show_icons=true&include_all_commits=true&theme=radical&hide=stars)
