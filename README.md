@@ -20,11 +20,6 @@
 [![SDR Test Runner](https://github.com/SunDevilRocketry/Flight-Computer-Firmware/actions/workflows/test-runner.yml/badge.svg)](https://github.com/SunDevilRocketry/Flight-Computer-Firmware/actions/workflows/test-runner.yml)
 [![Code Scanning](https://github.com/SunDevilRocketry/Flight-Computer-Firmware/actions/workflows/codeql.yml/badge.svg)](https://github.com/SunDevilRocketry/Flight-Computer-Firmware/actions/workflows/codeql.yml)
 
-#### SDR Liquids Program (*new program in early development*):
-
-[![Liquid Engine Stability Check](https://github.com/SunDevilRocketry/Engine-Controller-Firmware/actions/workflows/build-stability.yml/badge.svg)](https://github.com/SunDevilRocketry/Engine-Controller-Firmware/actions/workflows/build-stability.yml)
-[![Liquid Valve Stability Check](https://github.com/SunDevilRocketry/Valve-Controller-Firmware/actions/workflows/build-stability.yml/badge.svg)](https://github.com/SunDevilRocketry/Valve-Controller-Firmware/actions/workflows/build-stability.yml)
-
 #### SDR Common Libraries:
 
 [![Driver Unit Test Status](https://github.com/SunDevilRocketry/driver/actions/workflows/test-runner.yml/badge.svg)](https://github.com/SunDevilRocketry/driver/actions/workflows/test-runner.yml)
