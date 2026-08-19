@@ -37,15 +37,9 @@ there, and I've really enjoyed my time with them!
 I'm currently the avionics lead at Sun Devil Rocketry. The avionics team builds and programs custom computers for both the high 
 power rocketry and liquid propulsion research projects undertaken by the rest of the team. I oversee three divisions each with a number of 
 project teams working on everything from PCB design to Javascript programming. I'm responsible for inter-team coordination and the 
-primary point of contact for any project in the organization who wants anything done with electronics.
-
-I'm also directly leading the firmware team. We're responsible for writing all of the embedded
-software/firmware for SDR's purpose-built computers, such as the flight computer and liquid engine controller. It's been a great
-exposure to project management to get to work with such a dedicated team and play a central role in guiding our goals. On the 
-technical side, I specialize in the telemetry subsystem and the device's integration with the rest of our software, but I've been all around our 
-codebase and I'm always trying to learn more. If you're an ASU student with interests in embedded systems, firmware, real-time 
-operating systems, software architecture, C programming, Python programming, or literally anything else you see on the 
-organization's page: reach out to me and join us!
+primary point of contact for any project in the organization who wants anything done with electronics. If you're an ASU student with 
+interests in embedded systems, firmware, real-time operating systems, software architecture, C programming, Python programming, or 
+literally anything else you see on the organization's page: reach out to me and join us!
 
 Personal/Professional Contact: contact@etsells.dev
 
