@@ -17,13 +17,14 @@
 #### SDR Flight Computer R2 (Active Development) // R3 (Early Development):
 
 [![FCF Stability Check](https://github.com/SunDevilRocketry/Flight-Computer-Firmware/actions/workflows/build-stability.yml/badge.svg)](https://github.com/SunDevilRocketry/Flight-Computer-Firmware/actions/workflows/build-stability.yml)
+[![FCF Prerelease Build (CD)](https://github.com/SunDevilRocketry/Flight-Computer-Firmware/actions/workflows/prerelease-builder.yml/badge.svg)](https://github.com/SunDevilRocketry/Flight-Computer-Firmware/actions/workflows/prerelease-builder.yml)
 [![SDR Test Runner](https://github.com/SunDevilRocketry/Flight-Computer-Firmware/actions/workflows/test-runner.yml/badge.svg)](https://github.com/SunDevilRocketry/Flight-Computer-Firmware/actions/workflows/test-runner.yml)
 [![Code Scanning](https://github.com/SunDevilRocketry/Flight-Computer-Firmware/actions/workflows/codeql.yml/badge.svg)](https://github.com/SunDevilRocketry/Flight-Computer-Firmware/actions/workflows/codeql.yml)
 
 #### SDR Common Libraries:
 
 [![Driver Unit Test Status](https://github.com/SunDevilRocketry/driver/actions/workflows/test-runner.yml/badge.svg)](https://github.com/SunDevilRocketry/driver/actions/workflows/test-runner.yml)
-
+[![Mod Test Runner](https://github.com/SunDevilRocketry/mod/actions/workflows/test-runner.yml/badge.svg)](https://github.com/SunDevilRocketry/mod/actions/workflows/test-runner.yml)
 
 ## About Me
 
