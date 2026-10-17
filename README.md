@@ -32,7 +32,7 @@ I'm an ASU student studying Computer Science (Software Engineering) and Math at 
 software engineering for safety-critical embedded systems in the aerospace industry, but I'm always looking to broaden my
 skillset and learn cool things outside my main area of emphasis.
 
-I'm an intern at Garmin, where I have the privilege of working on flight management system technologies for their integrated flight decks. After I graduate, I'll be back with
+I'm an intern at Garmin, where I work on flight management system technologies for their integrated flight decks. After I graduate, I'll be back with
 them full time!
 
 I'm currently the avionics lead at Sun Devil Rocketry. The avionics team builds and programs custom computers for both the high 
